@@ -6,6 +6,6 @@ Model performance is evaluated using metrics such as accuracy and precision. The
 
 Sample evaluation metrics:
 
-Accuracy: [accuracy]
+Accuracy
 <br>
-Precision: [precision]
+Precision
