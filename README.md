@@ -9,3 +9,9 @@ Sample evaluation metrics:
 Accuracy
 <br>
 Precision
+
+# Installation
+<h3> Follow the steps to clone the Repo</h3>
+Open Git Bash.<br>
+Change to the directory you want.<br>
+Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Titanic-Classification.git"
